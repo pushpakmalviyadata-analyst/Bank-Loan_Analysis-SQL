@@ -19,6 +19,8 @@ This project analyzes bank loan application data using SQL to identify customer 
 - bank_loan_data.csv
 - queries.sql
 - insights.md
+# SQL QUERIES RESULTS
+![SQL Results](sql_results.png)
 
 ## Conclusion
 This project demonstrates SQL-based financial data analysis and business insights generation.
