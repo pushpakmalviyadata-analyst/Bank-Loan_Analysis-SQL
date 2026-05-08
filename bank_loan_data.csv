@@ -1,0 +1,501 @@
+loan_id,customer_name,state,employment_type,loan_amount,applicant_income,credit_score,loan_status,loan_purpose
+1001,Abram Mall,Uttar Pradesh,Business,724991,48062,520,Approved,Education Loan
+1002,Parinaaz Wadhwa,Gujarat,Business,294036,50458,531,Rejected,Car Loan
+1003,Mamooty Sarna,Delhi,Business,742118,105683,559,Rejected,Car Loan
+1004,Ojas Sarin,Maharashtra,Business,301572,34254,630,Rejected,Education Loan
+1005,Tushar Bhalla,Maharashtra,Salaried,333224,34409,690,Rejected,Business Loan
+1006,Dhanush Barman,Rajasthan,Business,209775,104337,760,Rejected,Education Loan
+1007,Mannat Badami,Uttar Pradesh,Salaried,303693,115904,577,Rejected,Education Loan
+1008,Vritika Dewan,Karnataka,Self-Employed,722316,62330,617,Rejected,Education Loan
+1009,Inaaya  Bedi,Rajasthan,Self-Employed,428488,108275,605,Approved,Home Loan
+1010,Keya Atwal,Gujarat,Self-Employed,263538,83958,798,Approved,Personal Loan
+1011,Reyansh Yohannan,Maharashtra,Salaried,510750,66082,632,Approved,Car Loan
+1012,Taran Samra,Tamil Nadu,Business,358030,38668,788,Approved,Home Loan
+1013,Indrajit Mani,Karnataka,Self-Employed,723875,114325,534,Rejected,Home Loan
+1014,Bhamini Srinivasan,Punjab,Salaried,394459,53708,504,Approved,Business Loan
+1015,Reyansh Agate,Gujarat,Business,189233,113988,521,Rejected,Car Loan
+1016,Hansh Warrior,Delhi,Self-Employed,275302,117424,667,Approved,Personal Loan
+1017,Indrans Ratti,Uttar Pradesh,Salaried,653061,51125,719,Approved,Personal Loan
+1018,Hiran Madan,Maharashtra,Self-Employed,293956,99295,726,Rejected,Education Loan
+1019,Akarsh Iyer,Punjab,Business,760175,45823,800,Approved,Car Loan
+1020,Trisha Vora,Gujarat,Salaried,297889,118809,780,Approved,Personal Loan
+1021,Sumer Warrior,Karnataka,Business,351133,76842,614,Rejected,Business Loan
+1022,Gatik Deshmukh,Maharashtra,Business,638802,98856,746,Approved,Personal Loan
+1023,Sahil Bali,Delhi,Self-Employed,743902,33843,759,Approved,Home Loan
+1024,Piya Chandra,Rajasthan,Business,528016,68573,513,Rejected,Business Loan
+1025,Miraan Rattan,Rajasthan,Business,568312,110436,595,Rejected,Education Loan
+1026,Saksham Vasa,Tamil Nadu,Salaried,408711,34242,643,Approved,Car Loan
+1027,Neysa Sodhi,Tamil Nadu,Self-Employed,339642,68641,722,Approved,Education Loan
+1028,Aarush Vohra,Tamil Nadu,Self-Employed,199109,71744,525,Rejected,Home Loan
+1029,Mishti Cherian,Gujarat,Business,690151,93303,528,Rejected,Home Loan
+1030,Arnav Sharma,Madhya Pradesh,Salaried,695031,101558,631,Rejected,Personal Loan
+1031,Indrajit Kapur,Delhi,Self-Employed,580375,81419,739,Approved,Car Loan
+1032,Saira Dasgupta,Punjab,Salaried,768033,33954,741,Approved,Home Loan
+1033,Aarna Goda,Rajasthan,Self-Employed,535210,31413,761,Approved,Car Loan
+1034,Zara Hari,Rajasthan,Self-Employed,129001,47968,588,Rejected,Home Loan
+1035,Anahita Vora,Tamil Nadu,Business,581932,75085,567,Approved,Home Loan
+1036,Samarth Raman,Rajasthan,Business,294237,101643,648,Rejected,Car Loan
+1037,Shamik Sur,Rajasthan,Salaried,172705,37166,652,Rejected,Car Loan
+1038,Lagan Varkey,Uttar Pradesh,Salaried,690762,87747,747,Approved,Business Loan
+1039,Kiara Basu,Delhi,Salaried,474341,76509,648,Rejected,Home Loan
+1040,Aarav Chatterjee,Gujarat,Business,375443,100793,640,Rejected,Home Loan
+1041,Shayak Agrawal,Punjab,Salaried,457038,31017,503,Rejected,Car Loan
+1042,Emir Kota,Tamil Nadu,Business,683662,95958,588,Rejected,Business Loan
+1043,Ivana Kumar,Karnataka,Salaried,421311,47698,759,Approved,Personal Loan
+1044,Eva Singhal,Gujarat,Business,733403,41061,789,Approved,Personal Loan
+1045,Uthkarsh Mall,Karnataka,Business,765686,77614,549,Rejected,Home Loan
+1046,Nitara Dasgupta,Delhi,Self-Employed,716293,62352,572,Approved,Personal Loan
+1047,Veer Bandi,Delhi,Salaried,755188,106903,696,Approved,Personal Loan
+1048,Kiaan Barad,Maharashtra,Business,271881,44866,632,Rejected,Car Loan
+1049,Jayan Raju,Maharashtra,Self-Employed,256898,100891,695,Approved,Home Loan
+1050,Tanya Dass,Uttar Pradesh,Salaried,355233,72891,646,Approved,Personal Loan
+1051,Himmat Taneja,Maharashtra,Salaried,791509,47679,758,Approved,Car Loan
+1052,Ryan Raju,Maharashtra,Salaried,358680,90098,585,Rejected,Education Loan
+1053,Tara Sankar,Madhya Pradesh,Salaried,172368,117686,558,Rejected,Car Loan
+1054,Nitara Srinivas,Uttar Pradesh,Self-Employed,235599,42094,731,Approved,Car Loan
+1055,Sahil Thakkar,Madhya Pradesh,Salaried,755416,117175,733,Approved,Personal Loan
+1056,Mohanlal Gulati,Punjab,Business,444678,42517,633,Rejected,Education Loan
+1057,Shayak Lalla,Karnataka,Self-Employed,304540,110020,567,Rejected,Home Loan
+1058,Tanya Brar,Madhya Pradesh,Business,424032,85446,567,Rejected,Personal Loan
+1059,Lavanya Ratta,Madhya Pradesh,Business,145970,43141,793,Approved,Personal Loan
+1060,Tushar Krishna,Uttar Pradesh,Salaried,397459,73141,617,Rejected,Education Loan
+1061,Rhea Ben,Uttar Pradesh,Salaried,711085,66984,564,Rejected,Personal Loan
+1062,Reyansh Bhargava,Delhi,Self-Employed,436988,70010,743,Approved,Personal Loan
+1063,Ojas Sarin,Madhya Pradesh,Self-Employed,522644,53567,650,Approved,Home Loan
+1064,Nirvi Bhatnagar,Maharashtra,Business,143815,97827,782,Approved,Car Loan
+1065,Amani Sharma,Delhi,Business,225977,66637,656,Approved,Personal Loan
+1066,Lagan Karpe,Tamil Nadu,Business,455193,107597,631,Approved,Car Loan
+1067,Charvi Basak,Delhi,Business,635837,36820,710,Approved,Car Loan
+1068,Krish Yadav,Gujarat,Salaried,162553,33558,761,Approved,Business Loan
+1069,Neelofar Gade,Madhya Pradesh,Self-Employed,479476,38774,699,Approved,Home Loan
+1070,Aniruddh Gulati,Delhi,Self-Employed,597149,114999,708,Approved,Car Loan
+1071,Tiya Sankaran,Uttar Pradesh,Business,603597,48425,514,Approved,Car Loan
+1072,Ahana  Wadhwa,Punjab,Self-Employed,271451,70153,568,Rejected,Home Loan
+1073,Keya Krishnan,Punjab,Business,650805,100126,720,Approved,Car Loan
+1074,Jivin Wadhwa,Gujarat,Salaried,508388,50143,681,Approved,Home Loan
+1075,Anvi Dayal,Madhya Pradesh,Business,628536,30547,768,Approved,Home Loan
+1076,Anay Buch,Madhya Pradesh,Business,284842,87424,642,Approved,Personal Loan
+1077,Shlok Dave,Uttar Pradesh,Salaried,153092,54997,695,Approved,Home Loan
+1078,Ritvik Subramanian,Uttar Pradesh,Salaried,724248,82708,580,Rejected,Education Loan
+1079,Trisha Sunder,Punjab,Business,646137,49906,779,Approved,Car Loan
+1080,Ahana  Krish,Karnataka,Salaried,581095,98800,723,Approved,Home Loan
+1081,Biju Sehgal,Gujarat,Business,789663,26220,635,Approved,Personal Loan
+1082,Nitya Sangha,Delhi,Salaried,682365,75859,738,Approved,Home Loan
+1083,Lavanya Sangha,Tamil Nadu,Business,148370,35185,707,Approved,Education Loan
+1084,Tushar Mander,Delhi,Self-Employed,676366,66620,530,Rejected,Education Loan
+1085,Oorja De,Madhya Pradesh,Self-Employed,155487,93539,664,Rejected,Car Loan
+1086,Zoya Chad,Rajasthan,Business,232738,51649,790,Approved,Home Loan
+1087,Krish Dube,Punjab,Self-Employed,326836,116107,763,Approved,Home Loan
+1088,Jivika Mandal,Rajasthan,Salaried,771159,102557,613,Approved,Car Loan
+1089,Umang Kaur,Punjab,Business,534188,84870,591,Approved,Home Loan
+1090,Priyansh Datta,Rajasthan,Salaried,713396,90730,552,Rejected,Business Loan
+1091,Indrajit Jha,Tamil Nadu,Business,158530,97598,770,Approved,Car Loan
+1092,Samiha Bandi,Tamil Nadu,Salaried,262416,41151,570,Rejected,Business Loan
+1093,Nirvi Ramaswamy,Delhi,Salaried,135706,118578,609,Rejected,Education Loan
+1094,Faiyaz Deol,Karnataka,Salaried,113257,32356,639,Rejected,Business Loan
+1095,Kismat Goyal,Tamil Nadu,Business,304681,73223,737,Rejected,Education Loan
+1096,Aarav Chaudhuri,Karnataka,Salaried,394400,78343,610,Rejected,Education Loan
+1097,Yuvaan Kakar,Gujarat,Business,159905,83035,718,Approved,Car Loan
+1098,Lavanya Kar,Uttar Pradesh,Business,545984,80352,655,Approved,Car Loan
+1099,Emir Desai,Uttar Pradesh,Self-Employed,424544,74895,741,Approved,Car Loan
+1100,Lagan Banik,Madhya Pradesh,Salaried,524723,95786,601,Approved,Home Loan
+1101,Damini Mandal,Tamil Nadu,Salaried,687507,76272,786,Approved,Personal Loan
+1102,Mannat Luthra,Delhi,Salaried,711624,33080,732,Approved,Home Loan
+1103,Rohan Manne,Maharashtra,Business,606936,87475,559,Rejected,Business Loan
+1104,Dharmajan Manda,Delhi,Salaried,409936,72468,718,Rejected,Home Loan
+1105,Purab Sampath,Rajasthan,Salaried,164109,97072,753,Approved,Home Loan
+1106,Samarth Kala,Punjab,Salaried,480133,38839,678,Approved,Business Loan
+1107,Yakshit Basu,Punjab,Business,391130,72102,658,Approved,Business Loan
+1108,Trisha Balay,Tamil Nadu,Business,781878,70809,652,Approved,Home Loan
+1109,Nayantara Batta,Uttar Pradesh,Business,368156,63085,743,Approved,Car Loan
+1110,Mahika Dhar,Delhi,Business,486471,97617,710,Approved,Personal Loan
+1111,Heer Arya,Karnataka,Salaried,509137,113100,590,Rejected,Car Loan
+1112,Tushar Barman,Rajasthan,Business,229990,89081,616,Approved,Personal Loan
+1113,Riaan Aurora,Uttar Pradesh,Self-Employed,359310,67683,558,Rejected,Education Loan
+1114,Eshani Sachar,Punjab,Self-Employed,691203,34929,567,Rejected,Education Loan
+1115,Alisha Karpe,Rajasthan,Salaried,700255,89298,619,Approved,Business Loan
+1116,Reyansh Sharma,Karnataka,Salaried,302185,87709,643,Approved,Business Loan
+1117,Diya Tiwari,Madhya Pradesh,Salaried,651810,84876,693,Approved,Business Loan
+1118,Amani Kadakia,Delhi,Self-Employed,527541,105013,657,Approved,Home Loan
+1119,Lagan Rege,Punjab,Self-Employed,357060,116447,749,Approved,Car Loan
+1120,Biju Lal,Uttar Pradesh,Salaried,573500,118882,536,Rejected,Home Loan
+1121,Alisha Lad,Madhya Pradesh,Salaried,186450,50463,627,Rejected,Car Loan
+1122,Aarush Chadha,Punjab,Self-Employed,583627,82603,540,Rejected,Education Loan
+1123,Tejas Din,Tamil Nadu,Business,649575,28183,676,Approved,Home Loan
+1124,Veer Bose,Rajasthan,Salaried,640734,118477,597,Rejected,Personal Loan
+1125,Ehsaan Chauhan,Rajasthan,Self-Employed,683800,47795,763,Rejected,Personal Loan
+1126,Onkar Joshi,Rajasthan,Self-Employed,212803,94670,574,Rejected,Business Loan
+1127,Pari Divan,Uttar Pradesh,Self-Employed,630902,76411,593,Approved,Car Loan
+1128,Prerak Sami,Maharashtra,Business,584210,34094,562,Rejected,Education Loan
+1129,Nayantara Swamy,Delhi,Self-Employed,732658,36670,536,Rejected,Business Loan
+1130,Tiya Mahal,Delhi,Business,630677,114199,695,Approved,Home Loan
+1131,Diya De,Gujarat,Salaried,250502,78611,609,Rejected,Car Loan
+1132,Lagan Chadha,Rajasthan,Salaried,326084,79619,679,Rejected,Education Loan
+1133,Nehmat Babu,Uttar Pradesh,Business,276522,81664,639,Approved,Car Loan
+1134,Inaaya  Ganguly,Karnataka,Business,472724,52975,684,Approved,Car Loan
+1135,Aarna Dash,Delhi,Business,274201,26216,784,Approved,Home Loan
+1136,Vanya Srinivas,Madhya Pradesh,Salaried,495298,84351,626,Rejected,Business Loan
+1137,Ivan Kaul,Rajasthan,Business,673757,48638,567,Rejected,Car Loan
+1138,Seher Sagar,Gujarat,Business,318419,115095,664,Approved,Education Loan
+1139,Ryan Andra,Karnataka,Salaried,653692,74919,592,Rejected,Education Loan
+1140,Pihu Chada,Delhi,Business,464422,98194,779,Approved,Education Loan
+1141,Farhan Kaul,Punjab,Self-Employed,256803,105329,700,Approved,Education Loan
+1142,Indrans Anne,Gujarat,Salaried,672322,94172,760,Approved,Education Loan
+1143,Amira Devan,Delhi,Business,715135,75118,766,Approved,Business Loan
+1144,Azad Khurana,Tamil Nadu,Salaried,434653,85517,670,Rejected,Personal Loan
+1145,Dharmajan Barad,Punjab,Self-Employed,779371,96046,556,Rejected,Education Loan
+1146,Mishti Shukla,Delhi,Business,242805,44757,519,Approved,Car Loan
+1147,Ahana  Balasubramanian,Madhya Pradesh,Self-Employed,494624,64146,548,Rejected,Personal Loan
+1148,Hansh Goda,Uttar Pradesh,Business,389986,34613,519,Rejected,Education Loan
+1149,Miraan Manne,Delhi,Self-Employed,742625,30618,609,Approved,Home Loan
+1150,Rohan Krishna,Gujarat,Salaried,134722,25414,756,Approved,Home Loan
+1151,Nayantara Dhingra,Uttar Pradesh,Business,141312,59544,514,Rejected,Personal Loan
+1152,Advik Varty,Rajasthan,Business,252218,41725,699,Rejected,Business Loan
+1153,Gokul Sharaf,Delhi,Self-Employed,760307,94146,711,Approved,Business Loan
+1154,Indranil Soni,Punjab,Business,223290,97810,614,Approved,Education Loan
+1155,Advik Koshy,Gujarat,Self-Employed,329200,90964,654,Rejected,Business Loan
+1156,Pari Chatterjee,Rajasthan,Business,315961,32589,684,Approved,Home Loan
+1157,Vaibhav Sarin,Uttar Pradesh,Self-Employed,553336,41441,693,Approved,Personal Loan
+1158,Anvi Karan,Madhya Pradesh,Self-Employed,743387,39957,736,Approved,Car Loan
+1159,Anahita Garg,Punjab,Salaried,184827,116064,525,Rejected,Education Loan
+1160,Suhana Soman,Maharashtra,Salaried,760545,59429,678,Approved,Business Loan
+1161,Faiyaz Venkataraman,Gujarat,Salaried,350937,95840,752,Approved,Business Loan
+1162,Divit D’Alia,Delhi,Self-Employed,269223,95623,695,Approved,Home Loan
+1163,Purab Aggarwal,Gujarat,Business,199910,31759,616,Approved,Education Loan
+1164,Purab Chandra,Delhi,Business,351296,35427,761,Approved,Home Loan
+1165,Adah Das,Uttar Pradesh,Salaried,554025,113882,755,Approved,Car Loan
+1166,Divyansh Sachdev,Rajasthan,Salaried,721694,55799,622,Approved,Car Loan
+1167,Vidur Desai,Karnataka,Salaried,585270,94348,706,Approved,Education Loan
+1168,Biju Bhattacharyya,Delhi,Business,317409,95349,622,Rejected,Car Loan
+1169,Vidur Mahal,Karnataka,Salaried,749237,25378,797,Approved,Personal Loan
+1170,Ivan Baria,Madhya Pradesh,Business,655743,85147,800,Approved,Business Loan
+1171,Umang Shankar,Rajasthan,Business,597239,41260,514,Rejected,Education Loan
+1172,Gatik Dhingra,Madhya Pradesh,Self-Employed,778535,61229,784,Approved,Education Loan
+1173,Rati Gulati,Punjab,Salaried,269837,70969,594,Rejected,Home Loan
+1174,Armaan Sandal,Uttar Pradesh,Self-Employed,171349,48710,767,Approved,Education Loan
+1175,Jayesh Walia,Tamil Nadu,Business,309096,35715,724,Approved,Personal Loan
+1176,Jayan Baria,Rajasthan,Business,289895,50761,643,Rejected,Business Loan
+1177,Tejas Chaudry,Maharashtra,Salaried,150591,109942,530,Approved,Home Loan
+1178,Vaibhav Thakkar,Tamil Nadu,Business,367734,45438,617,Rejected,Business Loan
+1179,Chirag Jani,Rajasthan,Business,247797,66837,609,Approved,Personal Loan
+1180,Khushi Vohra,Gujarat,Business,413453,113346,771,Approved,Business Loan
+1181,Divij Dutta,Maharashtra,Self-Employed,137737,39748,550,Approved,Car Loan
+1182,Riaan Basu,Delhi,Business,522312,106164,725,Approved,Car Loan
+1183,Jayesh Virk,Maharashtra,Self-Employed,559048,89319,703,Approved,Education Loan
+1184,Zain Joshi,Madhya Pradesh,Self-Employed,451533,38934,522,Rejected,Education Loan
+1185,Sumer Shan,Maharashtra,Salaried,600018,37063,724,Approved,Home Loan
+1186,Amira Ahluwalia,Tamil Nadu,Salaried,131031,28091,766,Rejected,Car Loan
+1187,Drishya Rajan,Punjab,Salaried,362625,62190,597,Approved,Business Loan
+1188,Faiyaz Banerjee,Tamil Nadu,Business,163028,116902,723,Approved,Education Loan
+1189,Abram Sarin,Karnataka,Business,224332,84137,652,Approved,Personal Loan
+1190,Charvi Wagle,Karnataka,Self-Employed,284890,49749,776,Approved,Education Loan
+1191,Manjari Malhotra,Punjab,Business,284750,95141,619,Rejected,Personal Loan
+1192,Tarini Kant,Rajasthan,Salaried,574675,71216,521,Approved,Business Loan
+1193,Diya Borde,Rajasthan,Self-Employed,743719,101967,548,Rejected,Education Loan
+1194,Hrishita Gaba,Karnataka,Salaried,178093,73713,615,Approved,Personal Loan
+1195,Jiya Kannan,Maharashtra,Business,750739,108628,785,Approved,Personal Loan
+1196,Saanvi Buch,Rajasthan,Salaried,618021,77604,560,Rejected,Home Loan
+1197,Aayush Sama,Karnataka,Salaried,124711,76737,622,Rejected,Car Loan
+1198,Tejas Vig,Delhi,Salaried,489565,79580,633,Rejected,Education Loan
+1199,Aarna Taneja,Punjab,Business,495782,72898,622,Rejected,Car Loan
+1200,Saira Sundaram,Delhi,Salaried,341421,101056,739,Approved,Business Loan
+1201,Kavya Mahal,Karnataka,Salaried,634533,41190,502,Approved,Business Loan
+1202,Aarush Kumer,Gujarat,Salaried,338971,116542,591,Rejected,Home Loan
+1203,Advik Krishnan,Maharashtra,Self-Employed,642317,84047,584,Approved,Home Loan
+1204,Khushi Acharya,Uttar Pradesh,Self-Employed,723580,46127,797,Rejected,Personal Loan
+1205,Tara Dube,Tamil Nadu,Business,423643,89898,714,Approved,Home Loan
+1206,Priyansh Borra,Tamil Nadu,Self-Employed,587462,71911,646,Approved,Education Loan
+1207,Kavya Gara,Delhi,Business,382038,92681,708,Approved,Personal Loan
+1208,Aarush Joshi,Rajasthan,Self-Employed,167938,56610,646,Approved,Car Loan
+1209,Miraya Kata,Punjab,Business,622699,90069,796,Approved,Business Loan
+1210,Prerak Choudhury,Uttar Pradesh,Salaried,574873,49889,764,Approved,Car Loan
+1211,Alisha Shan,Uttar Pradesh,Salaried,399900,40979,742,Approved,Home Loan
+1212,Indranil Vig,Rajasthan,Business,531958,64552,571,Rejected,Car Loan
+1213,Kismat Chada,Karnataka,Self-Employed,392638,82411,729,Approved,Personal Loan
+1214,Ivan Reddy,Madhya Pradesh,Business,218516,112634,671,Approved,Business Loan
+1215,Pari Raval,Rajasthan,Business,729141,33114,617,Rejected,Business Loan
+1216,Kaira Lanka,Rajasthan,Salaried,203774,61330,753,Rejected,Business Loan
+1217,Bhavin Kaul,Madhya Pradesh,Self-Employed,769577,39713,724,Approved,Car Loan
+1218,Divit Sarma,Rajasthan,Salaried,120416,88513,679,Approved,Education Loan
+1219,Manikya Sandal,Punjab,Business,375483,43491,557,Rejected,Car Loan
+1220,Kiara Golla,Delhi,Self-Employed,520953,40413,718,Rejected,Education Loan
+1221,Nitara Chad,Rajasthan,Business,601134,52221,658,Approved,Education Loan
+1222,Drishya Chowdhury,Uttar Pradesh,Business,116334,36610,631,Rejected,Car Loan
+1223,Stuvan Bumb,Maharashtra,Salaried,628790,68773,605,Rejected,Education Loan
+1224,Vritika Saraf,Delhi,Salaried,177361,109697,663,Approved,Education Loan
+1225,Emir Dua,Delhi,Salaried,412076,56373,730,Rejected,Car Loan
+1226,Rati Kalita,Maharashtra,Salaried,114531,38774,752,Approved,Personal Loan
+1227,Yuvraj  Balan,Rajasthan,Self-Employed,137697,99675,548,Rejected,Car Loan
+1228,Krish Deshpande,Gujarat,Salaried,534492,72198,745,Approved,Personal Loan
+1229,Fateh Wable,Tamil Nadu,Self-Employed,752236,102271,616,Rejected,Personal Loan
+1230,Dhruv Chada,Karnataka,Salaried,481049,103809,540,Approved,Business Loan
+1231,Riya Dugal,Maharashtra,Salaried,655591,78208,651,Approved,Business Loan
+1232,Parinaaz Yohannan,Maharashtra,Salaried,663489,30716,716,Approved,Home Loan
+1233,Darshit Badal,Tamil Nadu,Self-Employed,749651,25316,646,Approved,Business Loan
+1234,Tejas Zachariah,Delhi,Self-Employed,104775,62664,584,Rejected,Business Loan
+1235,Misha Wable,Delhi,Self-Employed,788093,91647,601,Rejected,Home Loan
+1236,Hunar Wali,Punjab,Business,375634,47483,706,Approved,Education Loan
+1237,Shayak Kota,Tamil Nadu,Self-Employed,178763,26528,561,Rejected,Business Loan
+1238,Anay Bhatia,Delhi,Business,485071,94601,603,Rejected,Personal Loan
+1239,Mamooty Choudhary,Gujarat,Self-Employed,288213,64002,680,Approved,Education Loan
+1240,Samaira Anand,Madhya Pradesh,Self-Employed,488123,77020,770,Approved,Personal Loan
+1241,Oorja Chandra,Delhi,Salaried,539971,69400,747,Approved,Business Loan
+1242,Alia Hora,Delhi,Salaried,415883,100950,614,Approved,Personal Loan
+1243,Raunak Doctor,Uttar Pradesh,Self-Employed,403382,83502,752,Approved,Home Loan
+1244,Mahika Kant,Punjab,Business,639063,107327,662,Rejected,Home Loan
+1245,Vivaan Kapadia,Madhya Pradesh,Business,463082,54978,557,Approved,Education Loan
+1246,Tiya Rana,Karnataka,Self-Employed,410147,47226,658,Rejected,Education Loan
+1247,Purab Sahota,Maharashtra,Self-Employed,322417,29121,723,Rejected,Business Loan
+1248,Hazel Bath,Delhi,Business,643964,56908,660,Rejected,Car Loan
+1249,Vedika Chanda,Gujarat,Self-Employed,566436,59390,591,Rejected,Personal Loan
+1250,Madhup Setty,Uttar Pradesh,Business,685247,114425,545,Rejected,Business Loan
+1251,Nirvaan Sahota,Gujarat,Self-Employed,189139,96653,644,Approved,Business Loan
+1252,Nitya Bhasin,Rajasthan,Business,502019,91373,653,Approved,Home Loan
+1253,Amira Amble,Uttar Pradesh,Business,493769,83316,649,Approved,Home Loan
+1254,Krish Shankar,Gujarat,Self-Employed,652967,31496,654,Approved,Business Loan
+1255,Kashvi Lall,Tamil Nadu,Salaried,228821,90529,788,Approved,Personal Loan
+1256,Sana Thaman,Karnataka,Self-Employed,514743,114359,508,Rejected,Home Loan
+1257,Dhruv Kapur,Delhi,Salaried,318188,104233,656,Approved,Personal Loan
+1258,Charvi Sangha,Madhya Pradesh,Self-Employed,426073,91083,783,Approved,Business Loan
+1259,Baiju Desai,Punjab,Business,214772,67879,613,Rejected,Personal Loan
+1260,Khushi Venkataraman,Karnataka,Business,782805,98821,696,Approved,Car Loan
+1261,Ivan Joshi,Maharashtra,Salaried,537981,68714,570,Rejected,Business Loan
+1262,Advik Mangat,Karnataka,Salaried,327971,61616,587,Approved,Personal Loan
+1263,Alia Hegde,Rajasthan,Salaried,473441,38120,560,Approved,Education Loan
+1264,Piya Barad,Madhya Pradesh,Salaried,300055,111218,735,Approved,Education Loan
+1265,Shayak Andra,Tamil Nadu,Salaried,620195,59792,695,Approved,Education Loan
+1266,Rania Shroff,Tamil Nadu,Salaried,617862,114228,653,Approved,Education Loan
+1267,Saksham Sheth,Uttar Pradesh,Self-Employed,180850,35572,538,Approved,Car Loan
+1268,Myra Sodhi,Delhi,Business,522196,101155,582,Approved,Home Loan
+1269,Vardaniya Kala,Rajasthan,Self-Employed,774060,84712,649,Approved,Personal Loan
+1270,Amani Sani,Punjab,Self-Employed,374860,48109,511,Approved,Home Loan
+1271,Ela Grover,Gujarat,Self-Employed,205583,119585,535,Rejected,Car Loan
+1272,Myra Raja,Gujarat,Business,689232,59161,610,Rejected,Education Loan
+1273,Akarsh Ramaswamy,Tamil Nadu,Salaried,698467,67317,562,Approved,Business Loan
+1274,Sana Kalita,Madhya Pradesh,Salaried,502962,40451,557,Approved,Personal Loan
+1275,Ishita Mahajan,Uttar Pradesh,Business,650408,39148,795,Approved,Education Loan
+1276,Dhanush Vora,Delhi,Salaried,661398,40452,646,Rejected,Personal Loan
+1277,Reyansh Sagar,Punjab,Self-Employed,189912,86052,736,Approved,Business Loan
+1278,Jayant Ramesh,Uttar Pradesh,Salaried,638741,80276,584,Rejected,Education Loan
+1279,Yuvaan Deshmukh,Tamil Nadu,Self-Employed,590225,93856,703,Rejected,Education Loan
+1280,Drishya Toor,Uttar Pradesh,Self-Employed,756594,78420,582,Rejected,Education Loan
+1281,Hiran Dhingra,Madhya Pradesh,Self-Employed,343979,35557,548,Rejected,Home Loan
+1282,Ranbir Wagle,Madhya Pradesh,Business,564931,101347,730,Approved,Business Loan
+1283,Raghav Keer,Maharashtra,Business,573635,90004,535,Rejected,Personal Loan
+1284,Vardaniya Zachariah,Punjab,Salaried,695970,59337,735,Approved,Education Loan
+1285,Anya Srinivas,Madhya Pradesh,Business,271889,65235,749,Approved,Car Loan
+1286,Rati Sangha,Tamil Nadu,Salaried,501366,71928,532,Rejected,Home Loan
+1287,Miraya Ranganathan,Punjab,Salaried,116415,90525,764,Approved,Education Loan
+1288,Oorja Sunder,Punjab,Business,799843,60857,595,Rejected,Home Loan
+1289,Divij Agarwal,Uttar Pradesh,Business,438636,83744,678,Rejected,Car Loan
+1290,Arnav Srivastava,Karnataka,Self-Employed,546964,97906,558,Rejected,Business Loan
+1291,Nirvaan Choudhary,Gujarat,Business,511248,94491,718,Approved,Car Loan
+1292,Saksham Kaur,Uttar Pradesh,Salaried,143497,27116,772,Approved,Education Loan
+1293,Aradhya Choudhary,Karnataka,Self-Employed,169025,91109,595,Rejected,Car Loan
+1294,Shanaya Rana,Gujarat,Self-Employed,240065,100994,697,Rejected,Education Loan
+1295,Anay Rege,Rajasthan,Self-Employed,601925,38939,599,Rejected,Personal Loan
+1296,Riaan Mandal,Punjab,Salaried,584586,48438,781,Approved,Car Loan
+1297,Abram Banik,Delhi,Business,686532,52507,503,Approved,Personal Loan
+1298,Zeeshan Saraf,Maharashtra,Business,489737,107215,661,Approved,Personal Loan
+1299,Akarsh Grewal,Punjab,Salaried,663152,52027,678,Approved,Business Loan
+1300,Yashvi Sant,Tamil Nadu,Business,571444,89809,796,Approved,Car Loan
+1301,Kavya Korpal,Maharashtra,Business,322783,56239,710,Rejected,Home Loan
+1302,Rati Apte,Uttar Pradesh,Business,183837,57191,675,Approved,Home Loan
+1303,Ela Khatri,Rajasthan,Salaried,302596,27931,650,Approved,Car Loan
+1304,Nitara Dubey,Karnataka,Self-Employed,473126,59849,765,Approved,Home Loan
+1305,Mahika Bera,Uttar Pradesh,Self-Employed,532548,25252,750,Rejected,Business Loan
+1306,Tushar Sarin,Karnataka,Salaried,748281,49979,558,Rejected,Business Loan
+1307,Nitara Chada,Rajasthan,Business,105203,34319,686,Approved,Business Loan
+1308,Zoya Aurora,Uttar Pradesh,Business,606705,54687,671,Approved,Car Loan
+1309,Kaira Yadav,Maharashtra,Business,351496,98820,671,Approved,Business Loan
+1310,Gokul Deo,Rajasthan,Business,516814,44907,684,Approved,Home Loan
+1311,Mannat Lata,Madhya Pradesh,Salaried,719979,39244,702,Approved,Education Loan
+1312,Amani Brahmbhatt,Delhi,Business,691727,106488,724,Approved,Business Loan
+1313,Mehul Basu,Uttar Pradesh,Self-Employed,339729,54631,687,Approved,Home Loan
+1314,Nitya Sood,Rajasthan,Salaried,105213,32140,639,Rejected,Car Loan
+1315,Riya Datta,Punjab,Business,124664,110985,502,Approved,Home Loan
+1316,Aarav Dugar,Delhi,Business,368078,34132,732,Approved,Car Loan
+1317,Vihaan Barad,Delhi,Salaried,584874,102836,577,Rejected,Personal Loan
+1318,Rati Rama,Delhi,Business,523054,26974,615,Rejected,Education Loan
+1319,Chirag Saran,Tamil Nadu,Business,210706,90794,596,Rejected,Business Loan
+1320,Vanya Soman,Gujarat,Self-Employed,358942,39747,591,Rejected,Personal Loan
+1321,Azad Hora,Maharashtra,Self-Employed,569145,88229,624,Approved,Education Loan
+1322,Akarsh Zachariah,Karnataka,Self-Employed,296135,102163,628,Approved,Home Loan
+1323,Piya Wali,Tamil Nadu,Salaried,112484,82850,781,Approved,Business Loan
+1324,Arnav Loke,Uttar Pradesh,Business,766569,60629,724,Approved,Car Loan
+1325,Aradhya Srinivasan,Madhya Pradesh,Self-Employed,570565,45836,638,Rejected,Car Loan
+1326,Ela Khare,Madhya Pradesh,Self-Employed,772852,74538,599,Approved,Car Loan
+1327,Sumer Balan,Rajasthan,Business,492158,66716,776,Rejected,Personal Loan
+1328,Alia Gala,Punjab,Salaried,640980,38009,529,Approved,Home Loan
+1329,Pari Chahal,Karnataka,Self-Employed,136364,95168,640,Rejected,Education Loan
+1330,Drishya Apte,Gujarat,Self-Employed,425244,113906,789,Rejected,Home Loan
+1331,Kartik Ramesh,Gujarat,Self-Employed,238090,82128,676,Approved,Business Loan
+1332,Anika Bail,Delhi,Salaried,461259,104444,543,Rejected,Business Loan
+1333,Emir Gara,Gujarat,Salaried,334941,77781,749,Approved,Education Loan
+1334,Ishita Cherian,Karnataka,Self-Employed,191948,47554,643,Approved,Education Loan
+1335,Nehmat Sarma,Karnataka,Self-Employed,717112,48486,769,Approved,Business Loan
+1336,Aarna Dhingra,Delhi,Salaried,493169,79927,575,Rejected,Business Loan
+1337,Dhanuk Brar,Delhi,Business,108194,116426,664,Approved,Home Loan
+1338,Lagan Kakar,Karnataka,Business,497773,65640,619,Approved,Car Loan
+1339,Hansh Raman,Madhya Pradesh,Business,367234,36158,585,Rejected,Home Loan
+1340,Aniruddh Kade,Punjab,Business,736876,83926,554,Rejected,Education Loan
+1341,Khushi Mangal,Gujarat,Business,572878,41109,512,Approved,Home Loan
+1342,Prisha Verma,Delhi,Business,726666,92207,540,Approved,Home Loan
+1343,Kiara Bumb,Karnataka,Self-Employed,152956,61791,546,Rejected,Business Loan
+1344,Jivika Singhal,Karnataka,Self-Employed,509658,66574,690,Approved,Home Loan
+1345,Arhaan Trivedi,Uttar Pradesh,Salaried,506580,57988,729,Approved,Business Loan
+1346,Vedika Batra,Maharashtra,Salaried,552418,25793,770,Approved,Business Loan
+1347,Jayan Butala,Maharashtra,Salaried,294204,97818,598,Approved,Car Loan
+1348,Aniruddh Chada,Punjab,Business,735330,65708,676,Rejected,Business Loan
+1349,Yasmin Anand,Tamil Nadu,Self-Employed,531669,57680,687,Approved,Car Loan
+1350,Mannat Maharaj,Maharashtra,Self-Employed,457623,92440,767,Approved,Education Loan
+1351,Mohanlal Dhawan,Punjab,Salaried,517609,90783,528,Rejected,Personal Loan
+1352,Stuvan Subramaniam,Uttar Pradesh,Salaried,420695,84665,597,Rejected,Education Loan
+1353,Anya Mallick,Karnataka,Salaried,290113,61422,572,Rejected,Personal Loan
+1354,Miraan Bhakta,Punjab,Salaried,780427,53592,534,Approved,Personal Loan
+1355,Saira Chawla,Karnataka,Salaried,784416,33979,651,Approved,Business Loan
+1356,Nehmat Soni,Uttar Pradesh,Self-Employed,764966,86933,789,Approved,Personal Loan
+1357,Farhan Samra,Karnataka,Self-Employed,530263,106483,622,Approved,Car Loan
+1358,Suhana Apte,Punjab,Business,543401,38608,701,Approved,Car Loan
+1359,Heer Banerjee,Maharashtra,Self-Employed,482249,46789,620,Rejected,Home Loan
+1360,Indrans Vaidya,Uttar Pradesh,Business,334321,48499,590,Rejected,Home Loan
+1361,Madhav Roy,Madhya Pradesh,Self-Employed,537612,119743,593,Rejected,Education Loan
+1362,Lagan Kota,Karnataka,Self-Employed,202650,113217,772,Approved,Car Loan
+1363,Shaan Date,Gujarat,Business,218491,34479,597,Rejected,Education Loan
+1364,Jiya Tiwari,Tamil Nadu,Business,570375,56216,761,Approved,Personal Loan
+1365,Myra Choudhury,Gujarat,Salaried,132973,32181,778,Approved,Home Loan
+1366,Anika Banerjee,Gujarat,Salaried,305932,117585,658,Approved,Education Loan
+1367,Arnav Deep,Delhi,Business,786937,66555,717,Approved,Home Loan
+1368,Madhup Virk,Maharashtra,Salaried,694296,98817,745,Approved,Home Loan
+1369,Shaan Zachariah,Tamil Nadu,Business,700625,49474,597,Rejected,Education Loan
+1370,Shlok Rajagopal,Rajasthan,Business,379011,35594,717,Approved,Business Loan
+1371,Misha Luthra,Rajasthan,Self-Employed,614664,35542,671,Approved,Business Loan
+1372,Purab Kala,Karnataka,Self-Employed,320970,37518,744,Approved,Car Loan
+1373,Faiyaz Das,Karnataka,Business,524058,33195,551,Approved,Car Loan
+1374,Damini Sha,Uttar Pradesh,Self-Employed,569615,106857,797,Approved,Business Loan
+1375,Aarush Kari,Maharashtra,Business,258047,55643,537,Approved,Personal Loan
+1376,Mannat Setty,Madhya Pradesh,Self-Employed,159036,73598,544,Rejected,Home Loan
+1377,Romil Loke,Uttar Pradesh,Business,731389,55655,797,Approved,Personal Loan
+1378,Jayant Sarin,Gujarat,Self-Employed,218484,49662,549,Rejected,Home Loan
+1379,Manikya Khatri,Gujarat,Salaried,457006,39085,649,Approved,Home Loan
+1380,Nirvaan Bajwa,Madhya Pradesh,Business,343723,75132,740,Approved,Personal Loan
+1381,Dhanuk Thaker,Madhya Pradesh,Salaried,327011,100514,798,Approved,Education Loan
+1382,Kiara Mangal,Tamil Nadu,Self-Employed,775105,52016,600,Rejected,Education Loan
+1383,Riya Sha,Uttar Pradesh,Business,792045,54429,631,Rejected,Business Loan
+1384,Hansh Swaminathan,Gujarat,Business,350862,102475,717,Approved,Education Loan
+1385,Dhanuk Bhargava,Madhya Pradesh,Salaried,386289,49900,657,Approved,Business Loan
+1386,Neysa Chaudhuri,Madhya Pradesh,Self-Employed,303586,108042,657,Approved,Home Loan
+1387,Sana Ganguly,Maharashtra,Business,462629,55225,565,Approved,Car Loan
+1388,Vaibhav Sawhney,Rajasthan,Self-Employed,452391,58439,513,Rejected,Business Loan
+1389,Anaya Singhal,Karnataka,Business,646982,70205,744,Approved,Car Loan
+1390,Sana Chander,Tamil Nadu,Self-Employed,389942,70040,728,Approved,Business Loan
+1391,Nirvaan Bhavsar,Karnataka,Self-Employed,148796,88590,618,Rejected,Education Loan
+1392,Farhan Sane,Karnataka,Self-Employed,604701,82697,583,Rejected,Personal Loan
+1393,Faiyaz Mann,Madhya Pradesh,Salaried,485635,37700,718,Approved,Car Loan
+1394,Farhan Varma,Delhi,Business,580979,82483,528,Rejected,Education Loan
+1395,Ehsaan Shan,Delhi,Salaried,453928,112105,635,Approved,Education Loan
+1396,Biju Buch,Karnataka,Salaried,599941,89364,776,Approved,Business Loan
+1397,Mishti Chada,Tamil Nadu,Salaried,748841,56090,599,Rejected,Personal Loan
+1398,Zain Grewal,Gujarat,Salaried,107595,80700,545,Approved,Car Loan
+1399,Shaan Samra,Uttar Pradesh,Self-Employed,612803,56759,550,Rejected,Car Loan
+1400,Khushi Dar,Maharashtra,Business,139421,78552,756,Rejected,Education Loan
+1401,Darshit Gole,Gujarat,Self-Employed,183437,85379,555,Approved,Personal Loan
+1402,Bhamini Goyal,Maharashtra,Self-Employed,458763,102186,571,Rejected,Business Loan
+1403,Riya Vora,Delhi,Salaried,576987,100056,611,Rejected,Car Loan
+1404,Ela Gill,Uttar Pradesh,Business,607707,27278,523,Rejected,Personal Loan
+1405,Badal Bhandari,Tamil Nadu,Self-Employed,518820,100303,768,Approved,Home Loan
+1406,Gokul Verma,Rajasthan,Salaried,434288,86078,679,Approved,Education Loan
+1407,Badal Rau,Maharashtra,Self-Employed,691430,93968,787,Approved,Car Loan
+1408,Ishita Goyal,Maharashtra,Business,301172,43233,626,Rejected,Business Loan
+1409,Taimur Sarraf,Maharashtra,Salaried,350784,75947,692,Approved,Business Loan
+1410,Vedika Bhatt,Tamil Nadu,Self-Employed,196611,87055,660,Approved,Personal Loan
+1411,Advik Sethi,Uttar Pradesh,Business,706404,66222,739,Approved,Home Loan
+1412,Vaibhav Hans,Delhi,Business,462558,39384,561,Rejected,Car Loan
+1413,Keya Sharma,Gujarat,Salaried,541212,31565,688,Approved,Personal Loan
+1414,Shamik Ben,Maharashtra,Business,112923,48370,578,Rejected,Personal Loan
+1415,Advika Soman,Gujarat,Business,644328,46904,704,Approved,Car Loan
+1416,Khushi Salvi,Punjab,Business,356475,76878,657,Approved,Car Loan
+1417,Indrans Seth,Punjab,Business,311830,57584,627,Rejected,Business Loan
+1418,Tushar Bhattacharyya,Delhi,Self-Employed,201242,50585,556,Rejected,Car Loan
+1419,Shayak Soman,Rajasthan,Business,754553,97591,518,Rejected,Car Loan
+1420,Neelofar Chahal,Gujarat,Business,571457,37775,685,Approved,Home Loan
+1421,Bhavin Saxena,Punjab,Business,168041,79532,609,Approved,Home Loan
+1422,Jayant Choudhary,Uttar Pradesh,Business,747811,92770,567,Rejected,Home Loan
+1423,Rhea Vig,Madhya Pradesh,Salaried,782641,51004,513,Rejected,Business Loan
+1424,Ojas Loyal,Gujarat,Business,654146,29608,652,Approved,Business Loan
+1425,Charvi Sabharwal,Punjab,Business,273784,102294,598,Approved,Education Loan
+1426,Gatik Dhingra,Rajasthan,Business,344715,77379,754,Approved,Education Loan
+1427,Keya Saha,Rajasthan,Salaried,447699,116673,597,Approved,Car Loan
+1428,Kartik Bal,Gujarat,Self-Employed,365323,115892,520,Rejected,Education Loan
+1429,Indrans Agrawal,Madhya Pradesh,Self-Employed,781299,38965,526,Rejected,Car Loan
+1430,Drishya Mammen,Madhya Pradesh,Self-Employed,585374,68340,511,Rejected,Personal Loan
+1431,Arhaan Loyal,Madhya Pradesh,Self-Employed,228341,91279,762,Rejected,Personal Loan
+1432,Aarush De,Punjab,Self-Employed,235919,55651,589,Rejected,Home Loan
+1433,Aaina Yogi,Punjab,Salaried,206319,27602,701,Approved,Home Loan
+1434,Zoya Deshpande,Karnataka,Salaried,470515,109022,649,Rejected,Education Loan
+1435,Suhana Kumer,Karnataka,Business,452645,87375,505,Approved,Business Loan
+1436,Samar Sarraf,Karnataka,Self-Employed,489670,49356,741,Approved,Car Loan
+1437,Aaina Vig,Tamil Nadu,Self-Employed,270043,51524,613,Rejected,Business Loan
+1438,Lakshit Bumb,Madhya Pradesh,Business,545057,106437,610,Rejected,Car Loan
+1439,Khushi Hans,Delhi,Business,370168,26304,723,Rejected,Home Loan
+1440,Vidur Tank,Punjab,Self-Employed,736371,84433,598,Rejected,Business Loan
+1441,Tiya Sachar,Tamil Nadu,Business,376779,26349,644,Rejected,Business Loan
+1442,Ranbir Butala,Tamil Nadu,Salaried,131352,40637,750,Approved,Car Loan
+1443,Prisha Goyal,Uttar Pradesh,Salaried,440209,111532,508,Rejected,Home Loan
+1444,Saanvi Kanda,Maharashtra,Salaried,474816,74212,594,Rejected,Personal Loan
+1445,Krish Yadav,Karnataka,Self-Employed,422698,97652,585,Rejected,Home Loan
+1446,Shayak Hari,Punjab,Salaried,366685,58978,511,Rejected,Business Loan
+1447,Krish Ganesh,Rajasthan,Business,353925,63380,687,Rejected,Education Loan
+1448,Anika Mani,Tamil Nadu,Business,215807,101010,786,Approved,Personal Loan
+1449,Lagan Barad,Maharashtra,Salaried,746101,101652,669,Rejected,Home Loan
+1450,Nayantara Lad,Maharashtra,Salaried,352017,74626,589,Rejected,Education Loan
+1451,Biju Chhabra,Delhi,Salaried,509502,67954,641,Rejected,Education Loan
+1452,Kabir Krishnan,Delhi,Self-Employed,351708,92987,522,Rejected,Education Loan
+1453,Urvi Sandal,Delhi,Business,657053,41973,585,Rejected,Business Loan
+1454,Anika Sharma,Delhi,Self-Employed,743924,99471,669,Rejected,Personal Loan
+1455,Hunar Sastry,Gujarat,Business,494396,38096,746,Approved,Car Loan
+1456,Kashvi Ray,Gujarat,Salaried,247451,55479,610,Approved,Car Loan
+1457,Ela Bhakta,Delhi,Salaried,529187,69050,543,Rejected,Personal Loan
+1458,Raunak Swaminathan,Maharashtra,Business,460264,53542,536,Rejected,Business Loan
+1459,Diya Bobal,Karnataka,Salaried,700725,111620,710,Approved,Personal Loan
+1460,Ayesha Kuruvilla,Uttar Pradesh,Self-Employed,352496,105801,510,Rejected,Home Loan
+1461,Elakshi Raju,Rajasthan,Self-Employed,202372,104861,682,Approved,Business Loan
+1462,Tara Loyal,Maharashtra,Business,386911,107951,682,Approved,Personal Loan
+1463,Inaaya  Koshy,Uttar Pradesh,Self-Employed,689276,102486,501,Approved,Car Loan
+1464,Saira Tara,Karnataka,Salaried,153326,64293,650,Approved,Home Loan
+1465,Pranay Ramakrishnan,Delhi,Self-Employed,548386,113190,668,Approved,Home Loan
+1466,Shalv Dugal,Gujarat,Business,636437,62474,704,Approved,Car Loan
+1467,Aniruddh Chada,Tamil Nadu,Salaried,530186,87024,722,Approved,Home Loan
+1468,Tejas Raja,Madhya Pradesh,Business,756199,84686,672,Rejected,Education Loan
+1469,Prerak Mallick,Maharashtra,Business,485017,61243,674,Approved,Car Loan
+1470,Vidur Biswas,Delhi,Self-Employed,730735,94167,556,Rejected,Education Loan
+1471,Shalv Badal,Karnataka,Salaried,423140,29545,658,Approved,Personal Loan
+1472,Nishith Tak,Madhya Pradesh,Self-Employed,575817,101025,725,Approved,Education Loan
+1473,Ojas Vora,Maharashtra,Self-Employed,799998,77148,512,Approved,Car Loan
+1474,Tiya Tata,Karnataka,Self-Employed,239406,57787,794,Approved,Car Loan
+1475,Akarsh Kothari,Punjab,Business,302760,27217,515,Rejected,Business Loan
+1476,Myra Thaman,Maharashtra,Self-Employed,421659,53692,540,Rejected,Home Loan
+1477,Divij Soman,Rajasthan,Business,430926,26486,579,Rejected,Car Loan
+1478,Shray Lad,Punjab,Self-Employed,513492,46894,583,Rejected,Car Loan
+1479,Madhav Edwin,Madhya Pradesh,Business,653371,53626,531,Approved,Education Loan
+1480,Ela Warrior,Karnataka,Salaried,268447,47188,701,Approved,Personal Loan
+1481,Eva Sood,Rajasthan,Self-Employed,529057,40117,757,Approved,Car Loan
+1482,Misha Tak,Madhya Pradesh,Self-Employed,444834,57619,709,Approved,Personal Loan
+1483,Baiju Singh,Delhi,Salaried,585842,90525,764,Approved,Home Loan
+1484,Ivana Khosla,Madhya Pradesh,Business,327373,64718,753,Approved,Education Loan
+1485,Kashvi Khalsa,Uttar Pradesh,Business,710045,86268,592,Rejected,Home Loan
+1486,Gokul Din,Uttar Pradesh,Business,159271,40005,677,Rejected,Car Loan
+1487,Mannat Dhaliwal,Gujarat,Salaried,717637,110740,784,Approved,Car Loan
+1488,Anay Bora,Gujarat,Salaried,544063,31453,753,Approved,Business Loan
+1489,Tarini Jain,Madhya Pradesh,Self-Employed,237335,51193,674,Rejected,Business Loan
+1490,Ira Jha,Madhya Pradesh,Salaried,274969,52704,625,Rejected,Business Loan
+1491,Madhup Varkey,Karnataka,Self-Employed,344553,47724,597,Rejected,Business Loan
+1492,Myra Kala,Tamil Nadu,Business,681248,100957,600,Rejected,Education Loan
+1493,Yakshit Vora,Rajasthan,Business,423138,91385,630,Rejected,Car Loan
+1494,Mehul Korpal,Maharashtra,Business,174921,114386,587,Rejected,Education Loan
+1495,Vidur Kala,Madhya Pradesh,Self-Employed,504507,106143,589,Approved,Personal Loan
+1496,Yasmin Srinivasan,Uttar Pradesh,Business,428244,74147,779,Approved,Education Loan
+1497,Navya Johal,Gujarat,Salaried,671237,46042,683,Approved,Personal Loan
+1498,Nakul Kibe,Madhya Pradesh,Self-Employed,193787,95485,604,Rejected,Personal Loan
+1499,Veer Behl,Gujarat,Self-Employed,474095,41663,723,Approved,Business Loan
+1500,Adah Saxena,Punjab,Salaried,656976,97780,578,Approved,Car Loan
