@@ -22,5 +22,13 @@ This project analyzes bank loan application data using SQL to identify customer 
 # SQL QUERIES RESULTS
 ![SQL Results](sql_results.png)
 
+## State-wise Loan Analysis
+
+![State-wise Analysis](State_wise_analysis.png)
+
+## Approved vs Rejected Loans
+
+![Loan Status Analysis](Loan_status_analysis.png)
+
 ## Conclusion
 This project demonstrates SQL-based financial data analysis and business insights generation.
